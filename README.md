@@ -16,7 +16,7 @@ en la misma carpeta de la página web? ¿Y si está en una carpeta superior?**
 
 
 
-El atributo src de la etiqueta "<img>" especifica la ruta a la imagen. Si la imagen está en la misma carpeta, solo se necesita el nombre del archivo.
+El atributo src de la etiqueta img especifica la ruta a la imagen. Si la imagen está en la misma carpeta, solo se necesita el nombre del archivo.
 
 
 
